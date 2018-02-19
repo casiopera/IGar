@@ -10,10 +10,6 @@
  */
 public class Dialog extends javax.swing.JDialog {
 
-     public Dialog(){
-      
-        initComponents();
-    }
      
     public Dialog(java.awt.Frame parent, boolean modal) {
         super(parent, modal);
